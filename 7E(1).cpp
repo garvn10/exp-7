@@ -14,7 +14,7 @@ int main() {
   double count = 0.0;
   double average;
 
-  cout << "The numbers are=";
+  cout << "The numbers are@";
 
   //  print array elements use of range-based for loop
   for (const double n : numbers) {
@@ -37,4 +37,5 @@ int main() {
 // Sum = 50.34
 //  
 // Their Average = 8.39      
+
 
