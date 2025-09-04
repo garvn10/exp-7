@@ -1,6 +1,6 @@
 // NAME - GARV NANDWANA
 // PRN -23070123167
-// EXPERIMENT - 7(C)
+// EXPERIMENT - 7
 #include<iostream>
 using namespace std; 
 
@@ -38,3 +38,4 @@ int main() {
 // Enter elements 5: 7
 // Array entered by the user is: 45637
 //  Reverse of the entered array is: 73654
+
